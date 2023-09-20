@@ -1,0 +1,18 @@
+Gracias por ver mi primer proyecto!
+
+
+Te cuento porque realice este trabajo.
+
+Primero era para mostrar como es un proyecto de data science, con algo sencillo e iconico como el titanic, la mayoria de las personas pudo ver la pelicula
+y en esta se puede ver como se refleja la realidad, pero... que tan real es lo que pasa en la pelicula... 
+
+En el analisis de datos podemos ver que hay mucha gente de clase baja, casi el triple que la clase alta, pero este no fue el factor que dividio en si sobrevive o no
+el factor principal estuvo en el la *EDAD*, es decir, que los bebes y/o menores de edad fueron la prioridad de rescate.
+Otro de los factores fue el *GENERO*, las mujeres tuvieron muy baja tasa de muerte o por lo menos menor a la de los hombres.
+
+Este estudio esta realizado en base a los datos, no propone ningun drama tal excepcional como el de la pelicula. Pero tampoco podemos decir que no esta acertada
+Jack tenia muy pocas chances de vivir, por mas que algunos digan que entraba en la tabla con Rose, y Rose tenia muchas mas chances de vivir, el resultado no 
+hubiera cambiado.
+
+
+Te invito a ver, analizar y cualquier consulta o recomendación siempre estoy abierto a escucharlas!
